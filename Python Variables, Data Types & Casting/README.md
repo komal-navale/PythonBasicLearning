@@ -10,7 +10,7 @@ Variables are containers for storing data values. Python has no command for decl
 5. Variable names are case-sensitive.
 ![img](https://user-images.githubusercontent.com/81376428/129181337-673d7edc-b2ca-40c9-81d0-6aaa55926742.png)
    
-Variable Names
+**Variable Names**
 1. A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
 2. A variable name must start with a letter or the underscore character
 3. A variable name cannot start with a number
@@ -24,7 +24,7 @@ Illegal variable Names
 ![img_1](https://user-images.githubusercontent.com/81376428/129181384-b1f66396-403a-44ea-8063-b79f670fbb7e.png)
 
 
-Multi Words Variable Names
+**Multi Words Variable Names**
 Variable names with more than one word can be difficult to read.
 There are several techniques you can use to make them more readable:
 1. Camel Case:
@@ -37,14 +37,13 @@ Each word starts with a capital letter:
    
 MyVariableName = "John"
 
-3. Snake Case
+3. Snake Case:
 Each word is separated by an underscore character:
 
 my_variable_name = "John"
 
 
-
-Assign Multiple Values
+**Assign Multiple Values:**
 
 1. Many Values to Multiple Variables
 
@@ -62,7 +61,7 @@ If you have a collection of values in a list, tuple etc. Python allows you extra
 
 ![img_3](https://user-images.githubusercontent.com/81376428/129181448-b7fabe28-323c-488d-a25d-d772051dc50a.png)
 
-Output Variables:
+**Output Variables:**
 
 The Python print statement is often used to output variables.
 
@@ -73,7 +72,7 @@ If you try to combine a string and a number, Python will give you an error:
 ![img_4](https://user-images.githubusercontent.com/81376428/129181476-ee0161eb-07f9-42fa-b6ab-2148e22466b0.png)
 
 
-Global Variables:
+**Global Variables:**
 
 Variables that are created outside of a function (as in all of the examples above) are known as global variables.
 
@@ -81,7 +80,7 @@ Global variables can be used by everyone, both inside of functions and outside.
 
 If you create a variable with the same name inside a function, this variable will be local, and can only be used inside the function. The global variable with the same name will remain as it was, global and with the original value.
 
-The global Keyword
+**The global Keyword**
 
 Normally, when you create a variable inside a function, that variable is local, and can only be used inside that function.
 
