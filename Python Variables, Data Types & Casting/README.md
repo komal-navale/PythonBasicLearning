@@ -42,6 +42,8 @@ Each word is separated by an underscore character:
 
 my_variable_name = "John"
 
+
+
 Assign Multiple Values
 
 1. Many Values to Multiple Variables
