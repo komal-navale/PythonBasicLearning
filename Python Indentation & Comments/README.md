@@ -33,5 +33,9 @@ Multi Line Comments
 Python does not really have a syntax for multi line comments.
 To add a multiline comment you could insert a # for each line
 
-![image](https://user-images.githubusercontent.com/81376428/129161892-48bab320-760b-4948-9fac-c8215d7e3ce7.png)
+Or, not quite as intended, you can use a multiline string.
+Since Python will ignore string literals that are not assigned to a variable, you can add a multiline string (triple quotes) in your code, and place your comment inside it
+
+![image](https://user-images.githubusercontent.com/81376428/129164403-ccdfefe9-9f81-49bd-935c-cab2d2a32e4f.png)
+
 
