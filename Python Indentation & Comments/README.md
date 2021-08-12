@@ -1,6 +1,6 @@
 # Indentation And Comments in Python
 
-Python Indentation
+Python Indentation:
 
 Indentation refers to the spaces at the beginning of a code line.
 
@@ -16,7 +16,7 @@ Python will give you an error if you skip the indentation:
 
 
 
-Python Comments
+Python Comments:
 
 Comments can be used to explain Python code.
 
