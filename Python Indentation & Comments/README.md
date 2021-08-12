@@ -32,3 +32,6 @@ Comments can be placed at the end of a line, and Python will ignore the rest of 
 Multi Line Comments
 Python does not really have a syntax for multi line comments.
 To add a multiline comment you could insert a # for each line
+
+![image](https://user-images.githubusercontent.com/81376428/129161892-48bab320-760b-4948-9fac-c8215d7e3ce7.png)
+
