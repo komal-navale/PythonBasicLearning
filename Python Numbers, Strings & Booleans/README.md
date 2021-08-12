@@ -13,6 +13,7 @@ There are three numeric types in Python:
 3. complex:
 
    Complex numbers are written with a "j" as the imaginary part
+   
 ![img](https://user-images.githubusercontent.com/81376428/129203120-0eeb8d03-216b-439b-8b19-3dbfb623e10d.png)
 
    
