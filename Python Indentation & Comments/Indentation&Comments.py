@@ -8,3 +8,9 @@ print('Comments Demo')  # This is a in-line comment
 # Multi-line comments
 # There is nothing like multi-line comments in Python like other programming languages.
 # To display comments it has to start with # in front of each line
+
+"""
+This is a comment
+written in
+more than just one line
+"""
