@@ -13,16 +13,19 @@ There are three numeric types in Python:
 3. complex:
 
    Complex numbers are written with a "j" as the imaginary part
-![img.png](img.png)
+![img](https://user-images.githubusercontent.com/81376428/129203120-0eeb8d03-216b-439b-8b19-3dbfb623e10d.png)
+
    
 Float can also be scientific numbers with an "e" to indicate the power of 10.
 
-![img_1.png](img_1.png)
+![img_1](https://user-images.githubusercontent.com/81376428/129203146-e5ba3f59-4de9-43a7-ac07-d8eae2c24bcf.png)
+
 
 Type Conversion
 You can convert from one type to another with the int(), float(), and complex() methods
 
-![img_2.png](img_2.png)
+![img_2](https://user-images.githubusercontent.com/81376428/129203184-611a7a47-096a-4525-bac4-ba6818c800fc.png)
+
 
    
 Strings:
@@ -60,9 +63,10 @@ A]
 
     To check if a certain phrase or character is NOT present in a string, we can use the keyword not in.
 
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
-![img_5.png](img_5.png)
+![img_3](https://user-images.githubusercontent.com/81376428/129203211-6cf2590c-0866-4b9c-971a-35275b20ba95.png)
+![img_4](https://user-images.githubusercontent.com/81376428/129203241-fd867509-c17e-4f4e-9f71-04fbb59d2acf.png)
+![img_5](https://user-images.githubusercontent.com/81376428/129203261-9a3b7499-bb69-48e3-a41d-1fd3ff409a30.png)
+
 
 B] Python - Slicing Strings
 
@@ -84,7 +88,8 @@ B] Python - Slicing Strings
 
    Use negative indexes to start the slice from the end of the string
 
-   ![img_6.png](img_6.png)
+![img_6](https://user-images.githubusercontent.com/81376428/129203282-d5d59dbb-48cb-4d4b-9ca4-551e88f5998a.png)
+
 
 C] Python - Modify Strings
 
@@ -110,7 +115,8 @@ Python has a set of built-in methods that you can use on strings.
 
    The split() method returns a list where the text between the specified separator becomes the list items
 
-   ![img_7.png](img_7.png)
+![img_7](https://user-images.githubusercontent.com/81376428/129203316-44b75720-808b-4152-8538-421971f76c12.png)
+
 
 D] String Concatenation
 
@@ -118,7 +124,7 @@ To concatenate, or combine, two strings you can use the + operator.
 
 To add a space between them, add a " "
 
-![img_8.png](img_8.png)
+![img_8](https://user-images.githubusercontent.com/81376428/129203354-798eff5a-ee97-4222-ae32-c77641bbd175.png)
 
 E] Python - Format - Strings
 
@@ -140,7 +146,8 @@ The format() method takes unlimited number of arguments, and are placed into the
 
 You can use index numbers {0} to be sure the arguments are placed in the correct placeholders
 
-![img_9.png](img_9.png)
+![img_9](https://user-images.githubusercontent.com/81376428/129203393-d8a247c6-acc7-43d7-8878-abcc08c4f3c8.png)
+
 
 F] Escape Character
 
@@ -176,7 +183,8 @@ Code	     Result
 
 \xhh -	     Hex value
 
-![img_10.png](img_10.png)
+![img_10](https://user-images.githubusercontent.com/81376428/129203432-a03b0a3f-d2cd-4b13-a894-778d3393af41.png)
+
 
 G] Python - String Methods
 
@@ -276,7 +284,8 @@ upper()-	Converts a string into upper case
 
 zfill()-	Fills the string with a specified number of 0 values at the beginning
 
-![img_11.png](img_11.png)
+![img_11](https://user-images.githubusercontent.com/81376428/129203465-cab65a81-e538-4b60-b970-0a25a875bbbf.png)
+
 
 
 Booleans:
@@ -307,7 +316,8 @@ Booleans represent one of two values: True or False.
 
 6. You can create functions that returns a Boolean Value
 
-![img_12.png](img_12.png)
+![img_12](https://user-images.githubusercontent.com/81376428/129203498-9094f9f1-cfb3-490f-bf2c-05f5783bc4f4.png)
+
 
 
 
